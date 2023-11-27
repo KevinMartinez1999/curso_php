@@ -1,0 +1,1 @@
+{"version":1,"defects":{"indexTest::testSumar":8,"indexTest::testRestar":8,"indexTest::testMultiplicar":8,"indexTest::testDividir":8,"indexTest::testDividirPorCero":8},"times":{"indexTest::testSumar":0.002,"indexTest::testRestar":0,"indexTest::testMultiplicar":0,"indexTest::testDividir":0,"indexTest::testDividirPorCero":0.003}}
